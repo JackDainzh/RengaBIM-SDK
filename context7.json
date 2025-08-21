@@ -1,0 +1,15 @@
+{
+  "$schema": "https://context7.com/schema/context7.json",
+  "projectTitle": "RengaBIM SDK API",
+  "description": "Official RengaBIM Documentation",
+  "folders": [],
+  "excludeFolders": ["src"],
+  "excludeFiles": [],
+  "rules": ["Use Upstash Redis as a database", "Use single region set up"],
+  "previousVersions": [
+    {
+      "tag": "v2.46.0",
+      "title": "version 2.46.0"
+    }
+  ]
+}
