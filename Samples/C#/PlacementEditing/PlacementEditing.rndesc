@@ -1,0 +1,9 @@
+<RengaPlugin>
+	<Name>PlacementEditing</Name>
+	<Version>1.0</Version>
+	<Copyright>Copyright LLC ASCON - Design Systems, 2020. All rights reserved.</Copyright>
+	<RequiredAPIVersion>2.41</RequiredAPIVersion>
+	<PluginType>net8</PluginType>
+	<PluginFilename>PlacementEditing.dll</PluginFilename>
+	<Vendor>LLC Renga Software</Vendor>
+</RengaPlugin>

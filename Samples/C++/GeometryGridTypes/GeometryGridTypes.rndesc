@@ -1,0 +1,8 @@
+<RengaPlugin>
+  <Name>Geometry Grid Types (С++)</Name>
+  <Version>1.0</Version>
+  <Copyright>Copyright Renga Software LLC, 2018. All rights reserved.</Copyright>
+  <RequiredAPIVersion>2.41</RequiredAPIVersion>
+  <PluginFilename>GeometryGridTypes.rne</PluginFilename>
+  <Vendor>Renga Software LLC</Vendor>
+</RengaPlugin>

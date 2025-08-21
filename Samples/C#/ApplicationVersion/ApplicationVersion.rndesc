@@ -1,0 +1,9 @@
+<RengaPlugin>
+	<Name>Application Version (C#)</Name>
+	<Version>1.0</Version>
+	<RequiredAPIVersion>2.41</RequiredAPIVersion>
+	<Vendor>Renga Software LLC</Vendor>
+	<Copyright>Copyright Renga Software LLC, 2023. All rights reserved.</Copyright>
+	<PluginFilename>ApplicationVersion.dll</PluginFilename>
+	<PluginType>Net</PluginType>
+</RengaPlugin>

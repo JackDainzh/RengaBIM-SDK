@@ -1,0 +1,9 @@
+﻿<RengaPlugin>
+	<Name>Context Menus (C#)</Name>
+	<Version>1.0</Version>
+	<RequiredAPIVersion>2.41</RequiredAPIVersion>
+	<Vendor>Renga Software LLC</Vendor>
+	<Copyright>Copyright Renga Software LLC, 2018. All rights reserved.</Copyright>
+	<PluginFilename>ContextMenus.dll</PluginFilename>
+	<PluginType>Net</PluginType>
+</RengaPlugin>

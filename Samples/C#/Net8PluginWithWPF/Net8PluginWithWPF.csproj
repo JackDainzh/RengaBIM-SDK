@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+ <PropertyGroup>
+  <TargetFramework>net8.0-windows</TargetFramework>
+  <UseWPF>true</UseWPF>
+  <ImplicitUsings>enable</ImplicitUsings>
+  <PlatformTarget>x64</PlatformTarget>
+  <Platforms>x64</Platforms>
+  <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+  <AppendRuntimeIdentifierToOutputPath>false</AppendRuntimeIdentifierToOutputPath>
+  <AppendPlatformToOutputPath>false</AppendPlatformToOutputPath>
+  <OutputPath>..\bin\$(Configuration)\$(AssemblyName)\</OutputPath>
+ </PropertyGroup>
+
+ <ItemGroup>
+  <None Include="Net8PluginWithWPF.rndesc">
+   <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+  </None>
+ </ItemGroup>
+ <ItemGroup>
+  <Reference Include="Renga.NET8.PluginUtility">
+   <HintPath>..\..\..\Net\Renga.NET8.PluginUtility.dll</HintPath>
+  </Reference>
+  <COMFileReference Include="..\..\..\tlb\RengaCOMAPI.tlb">
+  </COMFileReference>
+ </ItemGroup>
+
+</Project>

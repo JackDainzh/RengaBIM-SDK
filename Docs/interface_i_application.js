@@ -1,0 +1,28 @@
+var interface_i_application =
+[
+    [ "CloseProject", "interface_i_application.html#ae9d44d6e87cb0d94d602db25b6331957", null ],
+    [ "CreateIfcExportSettings", "interface_i_application.html#a8eb8adf49bf20ee6033f4ce1892c7c6b", null ],
+    [ "CreateProject", "interface_i_application.html#a8901f852479f8bbe0b9b0e96da0e731c", null ],
+    [ "CreateProjectFromTemplate", "interface_i_application.html#a32a3ebea1db47d584056cf5a8d7de591", null ],
+    [ "Disable", "interface_i_application.html#a9930f18c4a2a31363c2e8fbcc31390ad", null ],
+    [ "Enable", "interface_i_application.html#a14f19fae7d7616677aaa51aeb7bb9f98", null ],
+    [ "GetCurrentLocale", "interface_i_application.html#a051f553455cc2de9722d7d90e29ff4bd", null ],
+    [ "GetMainWindowHandle", "interface_i_application.html#afff259ee97b203d4c17da6889de6ba69", null ],
+    [ "HasProject", "interface_i_application.html#ab128591cae72f32fc5499e49c4ab0e1a", null ],
+    [ "ImportIfcProject", "interface_i_application.html#abd7824cd4a5929fb44ec7d262bac607d", null ],
+    [ "OpenProject", "interface_i_application.html#adddc26c0baf226351324cdb001e9125b", null ],
+    [ "OpenViewByEntity", "interface_i_application.html#a16728d3ece731f73623b4e74a86f30a9", null ],
+    [ "Quit", "interface_i_application.html#aa1aeffbaeab8733462961aad54f83ea1", null ],
+    [ "ActiveView", "interface_i_application.html#a9e09b0606ed1b458a2d34cf8623e4370", null ],
+    [ "Enabled", "interface_i_application.html#a4f240fe5acb26b545b1f4ac264d16578", null ],
+    [ "HasLastError", "interface_i_application.html#aad2dc7f0d1028fcb9c3c58accfce3e9f", null ],
+    [ "LastError", "interface_i_application.html#a78a413b251f20c55c64915456956be23", null ],
+    [ "Math", "interface_i_application.html#a34093df0aef133e67c509fbf2d45bd40", null ],
+    [ "ProductName", "interface_i_application.html#ab2e9c537e0c61f270988821bf48c285a", null ],
+    [ "Project", "interface_i_application.html#addb2d4971d94c95acf02a02043adb459", null ],
+    [ "Selection", "interface_i_application.html#aa210fc9f8eba7b0481adba5ee18a2d45", null ],
+    [ "UI", "interface_i_application.html#a120c38b90cec8f088890bdab93e4b1d7", null ],
+    [ "Version", "interface_i_application.html#a390d90867b30d653cdb5b571833c0c8a", null ],
+    [ "VersionS", "interface_i_application.html#a05495d682d6cc51282f8073489e95ab4", null ],
+    [ "Visible", "interface_i_application.html#afdf967c45f0dfd9ba89394c6c6c50e50", null ]
+];
